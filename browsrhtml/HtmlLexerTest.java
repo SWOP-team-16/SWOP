@@ -7,8 +7,6 @@ import java.io.StringReader;
 
 import org.junit.jupiter.api.Test;
 
-import browsrhtml.HtmlLexer.TokenType;
-
 class HtmlLexerTest {
 
 	HtmlLexer lexer;

@@ -7,8 +7,6 @@ import java.io.Reader;
 import java.io.StringReader;
 import java.net.URL;
 
-import browsrhtml.HtmlLexer.TokenType;
-
 public class BrowsrDocumentValidator {
 	
 	HtmlLexer lexer;
